@@ -11,7 +11,7 @@ ___
 
 
 
-+ writen by LabVIEW2014, if you used high version,enjoy it
++ writen by LabVIEW2014, if you used high version,enjoy it || 用2014版本写的，后面的版本都可以打开
 + thanks to Revox and DUCO Team
 + Happy mining!:)
 
