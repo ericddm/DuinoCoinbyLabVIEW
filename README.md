@@ -1,15 +1,50 @@
 # DuinoCoinbyLabVIEW
 
-### Duino-Coin miner for LabVIEW family
+### Duino-Coin miner for LabVIEW family                                         
+                                                                                
+                                                                                  
+                                                                                  
+<p align = "center">
+  <a href="https://duinocoin.com">
+    <img width="300em" src="https://github.com/revoxhere/duino-coin/blob/master/Resources/ducobanner.png?raw=true" />
+  </a>
+<!--   <br />
+  <a href="https://github.com/revoxhere/duino-coin/blob/master/README.md">
+    <img src="https://img.shields.io/badge/English-0097e6.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_es_LATAM.md">
+    <img src="https://img.shields.io/badge/-Espa%C3%B1ol-ff793f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_zh_CN.md">
+    <img src="https://img.shields.io/badge/简体中文-2ed573.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_pl_PL.md">
+    <img src="https://img.shields.io/badge/Polski-e66767.svg?style=for-the-badge" />
+  <a href="https://github.com/revoxhere/duino-coin/blob/master/Resources/README_TRANSLATIONS/README_ru_RU.md">
+    <img src="https://img.shields.io/badge/русский-3dc1d3.svg?style=for-the-badge" />
+  </a>
+  <br />
+  <a href="https://wallet.duinocoin.com">
+    <img src="https://img.shields.io/badge/Online Wallet-8e44ad.svg?style=for-the-badge&logo=Web" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.pripun.duinocoin">
+    <img src="https://img.shields.io/badge/Android App-e84393.svg?style=for-the-badge&logo=Android" /></a>
+  <a href="https://github.com/revoxhere/duino-coin/blob/gh-pages/assets/whitepaper.pdf">
+    <img src="https://img.shields.io/badge/whitepaper-1abc9c.svg?style=for-the-badge&logo=Academia" /></a>
+  <br>
+  <a href="https://youtu.be/bFnCdqMke34">
+    <img src="https://img.shields.io/badge/Video-Watch-e74c3c.svg?style=for-the-badge&logo=Youtube" /></a>
+  <a href="https://discord.gg/kvBkccy">
+    <img src="https://img.shields.io/discord/677615191793467402.svg?color=5539cc&label=Discord&logo=Discord&style=for-the-badge" /></a>
+  <a href="https://github.com/revoxhere/duino-coin/releases/tag/2.4.5">
+    <img src="https://img.shields.io/badge/release-2.4.5-ff4112.svg?style=for-the-badge" /></a> -->
+</p>
 
-### www.duinocoin.com
-### https://github.com/revoxhere/duino-coin
 
-### support almost all ni.com product(www.ni.com, National Instruments - NI)
-
-
-
-
+### www.duinocoin.com                                                             
+### https://github.com/revoxhere/duino-coin                        
+                                                                                 
+### support almost all ni.com product(www.ni.com, National Instruments - NI)      
+  
 
 ___
 
