@@ -1,6 +1,15 @@
 # DuinoCoinbyLabVIEW
+
 ### Duino-Coin miner for LabVIEW family
-### support almost all ni.com product
+
+### www.duinocoin.com
+### https://github.com/revoxhere/duino-coin
+
+### support almost all ni.com product(www.ni.com, National Instruments - NI)
+
+
+
+
 
 ___
 
@@ -50,3 +59,10 @@ ___
 + C-RIO
 
 and all windows/Linux PC!
+
+## License
+
+
+
++ Duino Coin by LabVIEW is mostly distributed under the MIT License.
+
