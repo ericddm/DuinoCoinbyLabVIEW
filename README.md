@@ -10,8 +10,8 @@
                                                                                   
 <p >
   <a href="https://duinocoin.com">
-    <img width="300em" src="https://user-images.githubusercontent.com/20798114/130404080-d77b586a-1e0c-48f6-b248-691c3fc41d92.png" />
-    <img width="300em" src="https://user-images.githubusercontent.com/20798114/130403781-ecb5d819-7304-404b-9fd2-a767e7a5802b.jpg" />
+    <img width="260em" src="https://user-images.githubusercontent.com/20798114/130404080-d77b586a-1e0c-48f6-b248-691c3fc41d92.png" />
+    <img width="260em" src="https://user-images.githubusercontent.com/20798114/130403781-ecb5d819-7304-404b-9fd2-a767e7a5802b.jpg" />
   </a>
 
   
