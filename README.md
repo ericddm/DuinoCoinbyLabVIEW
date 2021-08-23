@@ -1,7 +1,7 @@
 # DuinoCoinbyLabVIEW
 
 <a href="https://duinocoin.com">
-  <img src="https://github.com/revoxhere/duino-coin/blob/master/Resources/duco.png?raw=true" width="215px" align="right" />
+  <img src="https://user-images.githubusercontent.com/20798114/130402732-4b891e2b-8197-4d88-9d1f-55411533a4bd.png" width="215px" align="right" />
 </a>
 
 ### Duino-Coin miner for LabVIEW family                                         
