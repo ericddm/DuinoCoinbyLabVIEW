@@ -6,12 +6,15 @@
 
 ### Duino-Coin miner for LabVIEW family                                         
                                                                                 
-                                                                                  
+                                                                                
                                                                                   
 <p >
   <a href="https://duinocoin.com">
-    <img width="300em" src="https://user-images.githubusercontent.com/20798114/130402364-1faa31fa-9717-4c95-b1a3-f062be6910cf.png" />
+    <img width="300em" src="https://user-images.githubusercontent.com/20798114/130404080-d77b586a-1e0c-48f6-b248-691c3fc41d92.png" />
+    <img width="300em" src="https://user-images.githubusercontent.com/20798114/130403781-ecb5d819-7304-404b-9fd2-a767e7a5802b.jpg" />
   </a>
+
+  
 <!--   <br />
   <a href="https://github.com/revoxhere/duino-coin/blob/master/README.md">
     <img src="https://img.shields.io/badge/English-0097e6.svg?style=for-the-badge" />
